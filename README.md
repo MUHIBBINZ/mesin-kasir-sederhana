@@ -1,4 +1,5 @@
 # Mesin Kasir Sederhana - Toko Kosmetik SID 💄
+![C](https://img.shields.io/badge/language-C-blue.svg)
 
 Ini adalah program **mesin kasir sederhana** berbasis C yang dirancang untuk digunakan di toko kosmetik. Program ini menangani proses:
 - Input data pembeli
